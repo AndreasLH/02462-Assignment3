@@ -4,6 +4,3 @@ TODO:
 - Q3
 - Comment on figure in Q5
 - Q8
-- Q10
-- Q11
-- Q12
